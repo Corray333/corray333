@@ -2,16 +2,16 @@
 
 I am a full-stack developer with a passion for building innovative and user-friendly web applications. I am currently a second-year student at Kuban State University, where I am studying computer science. I have a strong understanding of the following technologies:
 
-Golang
-JavaScript
-Vue.js
-Node.js
-Express.js
-PostgreSQL
-MongoDB
-SQL
-HTML
-CSS
+![Go](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AGo_Logo_Blue.svg&psig=AOvVaw0w5Sjfe4oGCwZ8RFTmyfvL&ust=1703350672822000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjX4PHBo4MDFQAAAAAdAAAAABAD)Golang\
+JavaScript\
+Vue.js\
+Node.js\
+Express.js\
+PostgreSQL\
+MongoDB\
+SQL\
+HTML\
+CSS\
 I am always looking for new ways to learn and improve my skills. I am also a strong believer in open source software and I am always happy to contribute to community projects.
 
 Projects
