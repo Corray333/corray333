@@ -2,16 +2,39 @@
 
 I am a full-stack developer with a passion for building innovative and user-friendly web applications. I am currently a second-year student at Kuban State University, where I am studying computer science. I have a strong understanding of the following technologies:
 
-![Go](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AGo_Logo_Blue.svg&psig=AOvVaw0w5Sjfe4oGCwZ8RFTmyfvL&ust=1703350672822000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjX4PHBo4MDFQAAAAAdAAAAABAD)Golang\
-JavaScript\
-Vue.js\
-Node.js\
-Express.js\
-PostgreSQL\
-MongoDB\
-SQL\
-HTML\
-CSS\
+<style>
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.lang-container{
+    display: flex;
+    height: 20px;
+    align-items: center;
+}
+</style>
+
+<div class="lang-container">
+<img title="a title" alt="Alt text" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" style="height:11px"><p>Golang</p>
+</div>
+<div style="padding: 0; margin: 0; display: flex; height: 100px; align-items: center;">
+    <img title="a title" alt="Alt text" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" style="height:15px; border-radius: 2px;">
+    <p style="padding: 0; margin: 0;">JavaScript</p>
+</div>
+<div style="padding: 0; margin: 0; display: flex; height: 100px; align-items: center;">
+    <img title="a title" alt="Alt text" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" style="height:15px; border-radius: 2px;">
+    <p style="padding: 0; margin: 0;">JavaScript</p>
+</div>
+
+<img title="a title" alt="Alt text" src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" style="height:13px"> Vue.js\
+
+<img title="a title" alt="Alt text" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" style="height:20px"> Node.js\
+<img title="a title" alt="Alt text" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" style="height:20px">PostgreSQL\
+<img title="a title" alt="Alt text" src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" style="height:20px">MongoDB\
+<img title="a title" alt="Alt text" src="go.png" style="height:11px">SQL\
+<img title="a title" alt="Alt text" src="go.png" style="height:11px">HTML\
+<img title="a title" alt="Alt text" src="go.png" style="height:11px">CSS\
 I am always looking for new ways to learn and improve my skills. I am also a strong believer in open source software and I am always happy to contribute to community projects.
 
 Projects
