@@ -2,18 +2,6 @@
 
 I am a full-stack developer with a passion for building innovative and user-friendly web applications. I am currently a second-year student at Kuban State University, where I am studying computer science. I have a strong understanding of the following technologies:
 
-<style>
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-.lang-container{
-    display: flex;
-    height: 20px;
-    align-items: center;
-}
-</style>
 
 <div class="lang-container">
 <img title="a title" alt="Alt text" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" style="height:11px"><p>Golang</p>
