@@ -2,7 +2,7 @@
 
 I am a full-stack developer with a passion for building innovative and user-friendly web applications. I am currently a second-year student at Kuban State University, where I am studying computer science. I have a strong understanding of the following technologies:
 
-<img alt="Skills and projects" align="center" src="/firs_page.svg">
+<img alt="Skills and projects" align="center" src="/first_page.svg">
 
 
 Email: mark.corray.off@gmail.com\
