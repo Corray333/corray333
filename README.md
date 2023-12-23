@@ -7,4 +7,4 @@
 
 <img alt="Skills and projects" align="center" src="/first_page.svg">
 
-<p align="center">I hope this helps!</p>
+<p align="center">Have a nice day😉</p>
