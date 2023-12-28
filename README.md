@@ -5,6 +5,8 @@
 🤝 I get along well with people and am always happy to make new acquaintances.\
 🧠 I can't stop learning and always open to new things.
 
-<img alt="Skills and projects" align="center" src="/first_page.svg">
+
+![My skills](/first_page.svg#gh-light-mode-only)
+![My skills](/first_page_dark.svg#gh-dark-mode-only)
 
 <p align="center">Have a nice day😉</p>
